@@ -759,12 +759,12 @@ a.chopex.BackgroundColor3 = Color3.fromRGB(14, 14, 14)
 a.chopex.Position = UDim2.new(0, 0, 0.196721315, 0)
 a.chopex.Size = UDim2.new(1, 0, 0, 30)
 a.chopex.Font = Enum.Font.SourceSansBold
-a.chopex.Text = "Scripter: Chopex`#4545"
+a.chopex.Text = "Cracked by juN#0707"
 a.chopex.TextColor3 = Color3.fromRGB(255, 255, 255)
 a.chopex.TextSize = 14.000
 a.UICorner_17.CornerRadius = UDim.new(0, 3)
 a.UICorner_17.Parent = a.chopex
-a.yenilmezxxgg.Name = "yenilmezxxgg"
+a.yenilmezxxgg.Name = "juN#0707"
 a.yenilmezxxgg.Parent = a.Frame
 a.yenilmezxxgg.BackgroundColor3 = Color3.fromRGB(14, 14, 14)
 a.yenilmezxxgg.Position = UDim2.new(0, 0, 0.196721315, 0)
@@ -5853,7 +5853,7 @@ a.discordlink.MouseButton1Down:Connect(
         dh:TweenSize(UDim2.new(0, 345, 0, 30))
         wait(1)
         dh:Destroy()
-        setclipboard("https://discord.gg/zUkucSd6RH")
+        setclipboard("https://discord.gg/")
     end
 )
 a.chopex.MouseButton1Down:Connect(
@@ -5869,7 +5869,7 @@ a.chopex.MouseButton1Down:Connect(
         dh:TweenSize(UDim2.new(0, 345, 0, 30))
         wait(1)
         dh:Destroy()
-        setclipboard("Chopex`#4545")
+        setclipboard("juN#0707")
     end
 )
 a.uimaker.MouseButton1Down:Connect(
@@ -5885,7 +5885,7 @@ a.uimaker.MouseButton1Down:Connect(
         dh:TweenSize(UDim2.new(0, 345, 0, 30))
         wait(1)
         dh:Destroy()
-        setclipboard("Chopex`#4545")
+        setclipboard("juN#0707")
     end
 )
 a.yenilmezxxgg.MouseButton1Down:Connect(
@@ -5901,11 +5901,11 @@ a.yenilmezxxgg.MouseButton1Down:Connect(
         dh:TweenSize(UDim2.new(0, 345, 0, 30))
         wait(1)
         dh:Destroy()
-        setclipboard("yenilmez_xxgg")
+        setclipboard("juN#0707")
     end
 )
 wait(11)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cfeciefe/qH4lF2gC3yM2vG6j/main/stuffloader", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chbW5wqwqqwsaas/qH4lF2gC3yM2vG6j/main/staffww", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cfeciefe/qH4lF2gC3yM2vG6j/main/cihonaxadmin", true))()
 wait(11)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cfeciefe/qH4lF2gC3yM2vG6j/main/skyremov", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonax/skyremover.lua", true))()

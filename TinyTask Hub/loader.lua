@@ -6,8 +6,8 @@ function Callback(text)
             print "copied to clipboard"
     
     game.StarterGui:SetCore("SendNotification", {
-    Title = "Copied!";
-    Text = "Tiny Task is PATCHED. (Update in progress)";
+    Title = "Discord invite Copied.";
+    Text = "Join on Discord for more info.";
     Duration = 10;
     Icon = "rbxassetid://5078628617";
 })
@@ -19,7 +19,7 @@ Bindable.OnInvoke = Callback
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "lol";
-    Text = "Join on Discord for more info.";
+    Text = "Copy Discord Link? (PATCHED AS NOW, JOIN ON DISCORD FOR MORE INFO.)";
     Duration = 26;
     Button1 = "Yes.";
     Button2 = "No.";

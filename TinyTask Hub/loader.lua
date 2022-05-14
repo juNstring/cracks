@@ -6,7 +6,7 @@ function Callback(text)
     
     game.StarterGui:SetCore("SendNotification", {
     Title = "Copied!";
-    Text = "Tell any bug/glitch idfk";
+    Text = "Join on discord and give a suggestion or tell me a bug/glitch idfk.";
     Duration = 10;
     Icon = "rbxassetid://5078628617";
 })
@@ -17,7 +17,7 @@ local Bindable = Instance.new("BindableFunction")
 Bindable.OnInvoke = Callback
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Normal Loader only (Arceus is patched rn).";
+    Title = "Normal Loader Only. (Arceus is retarded and patched).";
     Text = "Would you like to join on discord server? (Gostaria de entrar no Discord?)";
     Duration = 26;
     Button1 = "Yes.";

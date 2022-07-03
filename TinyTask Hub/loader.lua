@@ -246,9 +246,11 @@ A.TextColor3 = Color3.fromRGB(0, 0, 0)
 A.TextSize = 14.000
 A.MouseButton1Click:Connect(
     function()
+        game.CoreGui.loader:Destroy()
+        wait(1)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/versions/alphav.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/versions/bypass.lua"))()
          wait(0.5)
-                game.CoreGui.loader:Destroy()
     end)
 B.Name = "exit"
 B.Parent = v

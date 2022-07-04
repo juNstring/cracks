@@ -249,8 +249,8 @@ A.MouseButton1Click:Connect(
         game.CoreGui.loader:Destroy()
         wait(1)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/versions/alphav.lua"))()
+        wait(0.6
         loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/versions/bypass.lua"))()
-         wait(0.5)
     end)
 B.Name = "exit"
 B.Parent = v

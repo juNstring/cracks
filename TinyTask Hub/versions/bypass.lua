@@ -1,3 +1,6 @@
+
+local a="Tiny Task Is Loaded.... Thank you for using TinyTask <3"local b=Color3.new(0.184314,0.647059,1)game:GetService("ReplicatedStorage").SendLocalChatMessage:Fire(a,b)
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
